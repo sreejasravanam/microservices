@@ -1,1 +1,1 @@
-# microservices
+# spring-config-server
